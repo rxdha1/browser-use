@@ -12,7 +12,7 @@ llm = ChatOpenAI(
 	model='gpt-4o',
 	temperature=0.0,
 )
-task = 'Find the founders of browser-use and draft them a short personalized message'
+task = "Go to Birdeye.so, search for 'trending tokens', analyze the best ones to trade right now. click on the first post and return the first comment. Go back and forth between the top trending tokens to analyze them, return the resulting trade recommendations and signals as a message"
 
 agent = Agent(task=task, llm=llm)
 

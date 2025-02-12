@@ -15,7 +15,7 @@
 [![Weave Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fapp.workweave.ai%2Fapi%2Frepository%2Fbadge%2Forg_T5Pvn3UBswTHIsN1dWS3voPg%2F881458615&labelColor=#EC6341)](https://app.workweave.ai/reports/repository/org_T5Pvn3UBswTHIsN1dWS3voPg/881458615)
 
 
-🌐 Browser-use is the easiest way to connect your AI agents with the browser. 
+🌐 Browser-use is the easiest way to connect your AI Operators with any browser, website,webapp , . 
 
 💡 See what others are building and share your projects in our [Discord](https://link.browser-use.com/discord) - we'd love to see what you create!
 
